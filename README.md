@@ -9,6 +9,10 @@ This aimbot is also pretty bad, it was mainly just an experimental program I mad
 ### NOTE: To close the cheat, just press quit or press `. If these methods don't work, use task manager, use taskkill, reboot, etc. 
 
 #### INSTRUCTIONS: 
+Download the main zip file
+
+Open it up
+
 Download aimbot.zip 
 
 Extract the files 
